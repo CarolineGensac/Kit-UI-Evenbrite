@@ -62,3 +62,9 @@ img{
   margin-right: auto;
   display: block;
 }
+
+.element {
+  background-image: url('zachary-smith-zorgErvL_Fs-unsplash\ \(1\).jpg');
+  background-size: 100% 100%;
+}
+
